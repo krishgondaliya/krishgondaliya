@@ -23,5 +23,5 @@ My interests include distributed technologies, embedded systems, client-server p
 - 🌱 I’m currently learning Neural Networks in Machine Learning.
 - 👯 I’m looking to collaborate on Algorithmic projects.
 - 📫 How to reach me: krishgondaliya7@gmail.com
-- ⚡ Fun fact: “floating-point arithmetic", Ah, the joys of approximations!
+- ⚡ Fun fact: Approximation is like that one friend who always shows up late—reliable but never quite on time!
 
