@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Krish Gondaliya, a passionate  programming enthusiast with hands-on experience in software engineering and competitive programming. I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects. 
+I'm Krish Gondaliya, a programming enthusiast with hands-on experience in software engineering and competitive programming. I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects. 
 
 My interests include distributed technologies, embedded systems, client-server protocols, API design, and full-stack web development. I'm also keen on mobile app development for iOS/macOS, DevOps practices, and cloud computing. Currently, I'm exploring opportunities to expand my expertise and make meaningful contributions in tech.
 
