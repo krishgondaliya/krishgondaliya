@@ -19,9 +19,9 @@ I'm Krish Gondaliya, a passionate  programming enthusiast with hands-on experien
 
 My interests include distributed technologies, embedded systems, client-server protocols, API design, and full-stack web development. I'm also keen on mobile app development for iOS/macOS, DevOps practices, and cloud computing. Currently, I'm exploring opportunities to expand my expertise and make meaningful contributions in tech.
 
-🔭 I’m currently working on Mathematical Model and Data Analysis.
-🌱 I’m currently learning Neural Networks in Machine Learning.
-👯 I’m looking to collaborate on Algorithmic projects.
-📫 How to reach me: krishgondaliya7@gmail.com
-⚡ Fun fact: “floating-point arithmetic", Ah, the joys of approximations!
+- 🔭 I’m currently working on Mathematical Model and Data Analysis.
+- 🌱 I’m currently learning Neural Networks in Machine Learning.
+- 👯 I’m looking to collaborate on Algorithmic projects.
+- 📫 How to reach me: krishgondaliya7@gmail.com
+- ⚡ Fun fact: “floating-point arithmetic", Ah, the joys of approximations!
 
