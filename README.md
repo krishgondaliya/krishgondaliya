@@ -1,4 +1,4 @@
-### Hi there, I'm Krish Gondaliya👋
+## Hi there, I'm Krish Gondaliya👋
 <!--
 **krishgondaliya/krishgondaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: krishgondaliya7@gmail.com
 
 
-## Connect with me:
+### Connect with me:
 <a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
