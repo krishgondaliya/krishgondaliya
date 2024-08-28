@@ -94,6 +94,6 @@ Here are some ideas to get you started:
  <img align="left" alt="Photoshop" witdth="26" height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
 
 <br><br>
-## Well, the list is not going to end like this. I'm keeping expanding my knowledge!
+## List does not end here. I'm constantly expanding my knowledge!
 
 
