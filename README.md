@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Krish Gondaliya👋
 <!--
 **krishgondaliya/krishgondaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- ### I'm Krish Gondaliya
-- I'm a programming enthusiast with hands-on experience in software engineering and competitive programming. I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects. 
-
-- ### My interests include Full-Stack, distributed technologies, client-server protocols, and API design. I'm also keen on mobile app development for iOS/macOS and cloud computing.
+- I'm a programming enthusiast with hands-on experience in software engineering and competitive programming. I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects. My interests include Full-Stack, distributed technologies, client-server protocols, and API design. I'm also keen on mobile app development for iOS/macOS and cloud computing.
 
 - 🔭 I’m currently working on Neural Networks in Machine Learning for a research.
 - 🌱 I’m currently learning Full-Stack Development.
