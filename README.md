@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <h4>Programming Languages</h4>
 <img align="left" alt="C++" witdth="26" height="30" src="https://github.com/user-attachments/assets/eeb2afbd-3864-4f8f-849e-966b34c3dfb0" />
-<img align="left" alt="Java" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+<img align="left" alt="Java" witdth="26" height="30" src="https://github.com/user-attachments/assets/43aef30b-82f8-4d7e-a47a-5aa6f4a584a2" />
 <img align="left" alt="Python" witdth="26" height="30" src="https://github.com/user-attachments/assets/10114831-ea5b-4ced-b258-430e3b3d264b" />
 <img align="left" alt="C" witdth="26" height="30" src="https://github.com/user-attachments/assets/ab4bf4e0-f703-45fc-af7d-3558c93a55d1" />
 <img align="left" alt="SQL" witdth="26" height="30" src="https://github.com/user-attachments/assets/ecdbec88-7b71-470b-bc50-ed0f92cec510" />
