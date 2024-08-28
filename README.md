@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img align="left" alt="MySQL" witdth="26" height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
   <img align="left" alt="GraphQL" witdth="26" height="30" src="https://graphql.org/img/og-image.png" />
   <img align="left" alt="Redis" witdth="26" height="30" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
-  <img align="left" alt="Firebase" witdth="26" height="30" src="https://www.gstatic.com/devrel-devsite/prod/v3462c96ac67b219823d8a74cdbc490c2c319f90ecc3df183f872ce93dd06a4da/firebase/images/touchicon-180.png" />
+  <img align="left" alt="Firebase" witdth="26" height="30" src="https://user-images.githubusercontent.com/290451/76235994-04b94800-623d-11ea-9b5b-f7a1626ecb06.png" />
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
   <img align="left" alt="Flask" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
   
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  <br/>
  
  <h4>Environment and Infrastructure</h4>
- <img align="left" alt="Docker" witdth="26" height="30" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" />
+ <img align="left" alt="Docker" witdth="26" height="30" src="https://camo.githubusercontent.com/5d13e7a36666602986d31144ca8da7044bda0cdf106243dee856c21f5111baed/687474703a2f2f7765732e696f2f566663732f636f6e74656e74" />
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
  <img align="left" alt="OpenShift" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" />
  <img align="left" alt="Jenkins" witdth="26" height="30" src="https://miro.medium.com/max/1400/1*LOFbTP2SxXcFpM_qTsUSuw.png" />
