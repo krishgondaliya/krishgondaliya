@@ -32,13 +32,24 @@ Here are some ideas to get you started:
 <br />
 
 ## Languages and Tools:
+<h4>Programming Languages</h4>
+<img align="left" alt="C++" witdth="26" height="30" src="https://github.com/user-attachments/assets/eeb2afbd-3864-4f8f-849e-966b34c3dfb0" />
+<img align="left" alt="Java" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+<img align="left" alt="Python" witdth="26" height="30" src="https://github.com/user-attachments/assets/10114831-ea5b-4ced-b258-430e3b3d264b" />
+<img align="left" alt="C" witdth="26" height="30" src="https://github.com/user-attachments/assets/ab4bf4e0-f703-45fc-af7d-3558c93a55d1" />
+<img align="left" alt="SQL" witdth="26" height="30" src="https://github.com/user-attachments/assets/ecdbec88-7b71-470b-bc50-ed0f92cec510" />
+<img align="left" alt="C#" witdth="26" height="30" src="https://github.com/user-attachments/assets/de3d95bb-c715-4027-a501-70696b5a5d0c" />
+<img align="left" alt=".NET" witdth="26" height="30" src="https://github.com/user-attachments/assets/0e8bfc21-5981-42d7-b369-a0777262b3b4" />
+
+<br/>
+
 <h4>JavaScript and Related Libraries/Frameworks</h4>
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="React" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 <img align="left" alt="Redux" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 <img align="left" alt="NEXT.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
-<img align="left" alt="React testing library" witdth="26" height="30" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" />
+<img align="left" alt="React testing library" witdth="26" height="30" src="https://strapi.dhiwise.com/uploads/react_testing_libraries_and_tools_of_2022_4_0497c85e98.png?w=2048&q=75" />
 
 <br/>
 
