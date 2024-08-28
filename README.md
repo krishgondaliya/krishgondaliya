@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: krishgondaliya7@gmail.com
 
 
-### Connect with me:
+## Connect with me:
 <a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <h4>JavaScript and Related Libraries/Frameworks</h4>
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
