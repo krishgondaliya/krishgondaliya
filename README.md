@@ -82,7 +82,7 @@ Here are some ideas to get you started:
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
  <img align="left" alt="OpenShift" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" />
  <img align="left" alt="Jenkins" witdth="26" height="30" src="https://miro.medium.com/max/1400/1*LOFbTP2SxXcFpM_qTsUSuw.png" />
- <img align="left" alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ <img align="left" alt="GitHub" width="26" src="https://github.com/user-attachments/assets/4b736450-f65d-4d90-b25d-68ab7e9c4cd1" />
  <img align="left" alt="IBM Cloud" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IBM_Cloud_logo.png/250px-IBM_Cloud_logo.png" />
  
  <br/>
