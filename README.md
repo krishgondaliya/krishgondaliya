@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🙋‍♂️ I'm a programming enthusiast with hands-on experience in software engineering and competitive programming. I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
+- 🙋‍♂️ I'm a programming enthusiast with hands-on experience in variety of software engineering projects and actively learning competitive programming . I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
 - 🎯 My interests includes Full-Stack, distributed technologies, client-server protocols, and API design. I'm also keen on mobile app development for iOS/macOS and cloud computing.
 - 🔭 I’m currently working on Neural Networks in Machine Learning for a research.
 - 🌱 I’m currently learning Full-Stack Development.
