@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/259bd0b8-114d-428e-8e9a-7ae5f0be0727" />
 </a>
 
 <a href="https://www.instagram.com/krishsh.h/" target="_blank" rel="noreferer" >
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/user-attachments/assets/5ffe3870-7fcb-478b-82d9-11cfe1d45693" />
 </a>
 <br />
 
