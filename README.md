@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full-Stack Development and Dev-Ops.
 - 👯 I’m looking to collaborate with other content creators and join a collaborative team.
 - 📫 How to reach me: krishgondaliya7@gmail.com
+- 💼 Portfolio: https://krishgondaliya.vercel.app/
 
 
 ## Connect with me:
