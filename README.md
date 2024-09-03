@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 <h4>Frontend Style and User Interaction </h4>
    <img align="left" alt="HTML" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
   <img align="left" alt="CSS" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
-  <img align="left" alt="SASS" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
   <img align="left" alt="Styled Components" witdth="26" height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
   <img align="left" alt="Bootstrap" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
   <img align="left" alt="Material UI" witdth="26" height="30" src="https://mui.com/static/logo.png" />
@@ -89,13 +88,6 @@ Here are some ideas to get you started:
  <img align="left" alt="Python" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
  <img align="left" alt="R" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
  <img align="left" alt="Tableau" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
- 
- <br/>
- 
- <h4>3D Modelling and Game</h4>
- <img align="left" alt="Three.js" witdth="26" height="30" src="http://ingenuitysoftwarelabs.com/wp-content/uploads/2022/08/three-js-logo.png" />
- <img align="left" alt="Phaser" witdth="26" height="30" src="https://phaser.io/images/img.png" />
- <img align="left" alt="Phaser" witdth="26" height="30" src="https://ph-files.imgix.net/25b07021-eab0-4596-b444-0fcc41031595.png?auto=format" />
  
  <br/>
  
