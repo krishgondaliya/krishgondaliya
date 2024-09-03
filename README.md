@@ -81,8 +81,6 @@ Here are some ideas to get you started:
  <h4>Environment and Infrastructure</h4>
  <img align="left" alt="Docker" witdth="26" height="30" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
- <img align="left" alt="OpenShift" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" />
- <img align="left" alt="Jenkins" witdth="26" height="30" src="https://miro.medium.com/max/1400/1*LOFbTP2SxXcFpM_qTsUSuw.png" />
  <img align="left" alt="GitHub" width="26" src="https://github.com/user-attachments/assets/255da179-130e-4ab7-9ac1-0e93dfa06f57" />
  
  <br/>
