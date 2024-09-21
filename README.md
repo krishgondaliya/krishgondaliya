@@ -89,11 +89,7 @@ Here are some ideas to get you started:
  <img align="left" alt="R" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
  <img align="left" alt="Tableau" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
  
- <br/>
- 
- <h4>Design and Content Creation</h4>
- <img align="left" alt="Figma" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
- <img align="left" alt="Photoshop" witdth="26" height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
+
 
 <br><br>
 ## List does not end here. I'm keeping expanding my knowledge!
