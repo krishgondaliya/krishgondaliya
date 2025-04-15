@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🙋‍♂️ I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
-- 🎯 My interests includes Full-Stack, Distributed Systems, Low-Latency Applications, ML, and API design.
+- 🎯 My interests includes Full-Stack, Distributed Systems, Low-Latency Applications, ML Models, and API design.
 - 📫 How to reach me: krishgondaliya7@gmail.com
 - 💼 Portfolio: https://krishgondaliya.vercel.app/
 
