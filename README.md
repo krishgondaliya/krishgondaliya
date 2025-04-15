@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 
 
 <br><br>
-## List does not end here. I'm keeping expanding my knowledge!
+
 
 
