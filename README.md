@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🙋‍♂️ I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
-- 🎯 My interests includes Full-Stack, Distributed Systems, Low-Latency Applications, ML Models, and API design.
+- 🎯 My interests includes Distributed Systems, Low-Latency Applications, and High Performance Computing.
 - 📫 How to reach me: krishgondaliya7@gmail.com
 - 💼 Portfolio: https://krishgondaliya.vercel.app/
 
@@ -65,14 +65,6 @@ Here are some ideas to get you started:
   
   <br/>
 
-<h4>Frontend Style and User Interaction </h4>
-   <img align="left" alt="HTML" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" />
-  <img align="left" alt="CSS" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
-  <img align="left" alt="Styled Components" witdth="26" height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-  <img align="left" alt="Bootstrap" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
-  <img align="left" alt="Material UI" witdth="26" height="30" src="https://mui.com/static/logo.png" />
-  
- <br/>
  
  <h4>Environment and Infrastructure</h4>
  <img align="left" alt="Docker" witdth="26" height="30" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
@@ -81,11 +73,7 @@ Here are some ideas to get you started:
  
  <br/>
  
- <h4>Data Analytics and Visualisation</h4>
- <img align="left" alt="Python" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
- <img align="left" alt="R" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
- <img align="left" alt="Tableau" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
- 
+
 
 
 <br><br>
