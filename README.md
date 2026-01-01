@@ -61,7 +61,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Redis" witdth="26" height="30" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
   <img align="left" alt="Firebase" witdth="26" height="30" src="https://user-images.githubusercontent.com/290451/76235994-04b94800-623d-11ea-9b5b-f7a1626ecb06.png" />
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
-  <img align="left" alt="Flask" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
   
   <br/>
 
