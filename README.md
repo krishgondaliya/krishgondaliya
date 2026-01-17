@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt=".NET" witdth="26" height="30" src="https://github.com/user-attachments/assets/0e8bfc21-5981-42d7-b369-a0777262b3b4" />
 
 <br/>
+<br/>
 
 <h4>JavaScript and Related Libraries/Frameworks</h4>
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 <img align="left" alt="NEXT.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
 <img align="left" alt="React testing library" witdth="26" height="30" src="https://strapi.dhiwise.com/uploads/react_testing_libraries_and_tools_of_2022_4_0497c85e98.png?w=2048&q=75" />
 
+<br/>
 <br/>
 
  <h4>Database and Backend</h4>
@@ -63,15 +65,13 @@ Here are some ideas to get you started:
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
   
   <br/>
+  <br/>
 
  
  <h4>Environment and Infrastructure</h4>
  <img align="left" alt="Docker" witdth="26" height="30" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
  <img align="left" alt="GitHub" width="26" src="https://github.com/user-attachments/assets/255da179-130e-4ab7-9ac1-0e93dfa06f57" />
- 
- <br/>
- 
 
 
 
