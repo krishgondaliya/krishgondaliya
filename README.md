@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h4>Programming Languages</h4>
 <img align="left" alt="C++" witdth="26" height="30" src="https://github.com/user-attachments/assets/eeb2afbd-3864-4f8f-849e-966b34c3dfb0" />
 <img align="left" alt="Java" witdth="26" height="30" src="https://github.com/user-attachments/assets/43aef30b-82f8-4d7e-a47a-5aa6f4a584a2" />
-<img align="left" alt="Go" width="26" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Go" width="26" height="30" src="https://miro.medium.com/1*vQUKiQ8tn16YGdYlO-B5fA.png" />
 <img align="left" alt="Python" witdth="26" height="30" src="https://github.com/user-attachments/assets/c768373d-b071-4c89-827b-0387a2ede579" />
 <img align="left" alt="SQL" witdth="26" height="30" src="https://github.com/user-attachments/assets/ecdbec88-7b71-470b-bc50-ed0f92cec510" />
 <img align="left" alt="C#" witdth="26" height="30" src="https://github.com/user-attachments/assets/de3d95bb-c715-4027-a501-70696b5a5d0c" />
