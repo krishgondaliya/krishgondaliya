@@ -44,10 +44,9 @@ Here are some ideas to get you started:
 <h4>JavaScript and Related Libraries/Frameworks</h4>
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img align="left" alt="React" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
-<img align="left" alt="Redux" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+<img align="left" alt="React" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji756DZmDEwPdA2pi_IXiGyIqsm99Cp7NVg&s" />
+<img align="left" alt="Redux" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRfPwWIySzcC6wxzNkYJ4PfuSAyoU3Sj5Gg&s" />
 <img align="left" alt="NEXT.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
-<img align="left" alt="React testing library" witdth="26" height="30" src="https://strapi.dhiwise.com/uploads/react_testing_libraries_and_tools_of_2022_4_0497c85e98.png?w=2048&q=75" />
 
 <br/>
 <br/>
@@ -55,12 +54,11 @@ Here are some ideas to get you started:
  <h4>Database and Backend</h4>
  <img align="left" alt="Node.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
  <img align="left" alt="Express.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
-  <img align="left" alt="MongoDB" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+  <img align="left" alt="MongoDB" witdth="26" height="30" src="https://locusit.se/wp-content/uploads/2024/08/MongoDB.png" />
   <img align="left" alt="PostgreSQL" witdth="26" height="30" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" />
   <img align="left" alt="MySQL" witdth="26" height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
   <img align="left" alt="GraphQL" witdth="26" height="30" src="https://graphql.org/img/og-image.png" />
-  <img align="left" alt="Redis" witdth="26" height="30" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
-  <img align="left" alt="Firebase" witdth="26" height="30" src="https://user-images.githubusercontent.com/290451/76235994-04b94800-623d-11ea-9b5b-f7a1626ecb06.png" />
+  <img align="left" alt="Redis" witdth="26" height="30" src="https://clarkes.team/wp-content/uploads/2023/07/Redis.png" />
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
   
   <br/>
