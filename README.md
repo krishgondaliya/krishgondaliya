@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <img align="left" alt=".NET" witdth="26" height="30" src="https://github.com/user-attachments/assets/0e8bfc21-5981-42d7-b369-a0777262b3b4" />
 
 <br/>
-<br/>
 
 <h4>JavaScript and Related Libraries/Frameworks</h4>
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
