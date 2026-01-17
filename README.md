@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <img align="left" alt="NEXT.js" witdth="26" height="30" src="https://cdn.rswebsols.com/wp-content/uploads/2024/02/next-js-logo-920x341.png?strip=all" />
 
 <br/>
-<br/>
 
  <h4>Database and Backend</h4>
  <img align="left" alt="Node.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
@@ -61,7 +60,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Redis" witdth="26" height="30" src="https://clarkes.team/wp-content/uploads/2023/07/Redis.png" />
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
   
-  <br/>
   <br/>
 
  
