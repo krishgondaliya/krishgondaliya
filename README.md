@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="React" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji756DZmDEwPdA2pi_IXiGyIqsm99Cp7NVg&s" />
 <img align="left" alt="Redux" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRfPwWIySzcC6wxzNkYJ4PfuSAyoU3Sj5Gg&s" />
-<img align="left" alt="NEXT.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
+<img align="left" alt="NEXT.js" witdth="26" height="30" src="https://cdn.rswebsols.com/wp-content/uploads/2024/02/next-js-logo-920x341.png?strip=all" />
 
 <br/>
 <br/>
