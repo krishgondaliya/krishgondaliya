@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <br/>
 
 <h4>JavaScript and Related Libraries/Frameworks</h4>
-<img align="left" alt="JavaScript" witdth="26" height="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" />
 <img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
 <img align="left" alt="React" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji756DZmDEwPdA2pi_IXiGyIqsm99Cp7NVg&s" />
 <img align="left" alt="Redux" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRfPwWIySzcC6wxzNkYJ4PfuSAyoU3Sj5Gg&s" />
