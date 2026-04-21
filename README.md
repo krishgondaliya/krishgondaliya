@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🙋‍♂️ I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
-- 🎯 My interests includes API Designs, Back-End, Distributed Systems, Low-Latency Applications, and High Performance Computing.
-- 📫 How to reach me: krishgondaliya23@gmail.com
+- I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
+- My interests includes API Designs, Back-End, Distributed Systems, Low-Latency Applications, and High Performance Computing.
+- How to reach me: krishgondaliya23@gmail.com
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
