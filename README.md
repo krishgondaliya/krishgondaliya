@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 - I have a strong foundation in algorithms, data structures, and core computer science concepts, and I'm constantly seeking opportunities to apply my skills in real-world projects.
 - My interests includes API Designs, Back-End, Distributed Systems, Low-Latency Applications, and High Performance Computing.
+- Active portfolio: https://www.krishgondaliya.com/
 - How to reach me: krishgondaliya23@gmail.com
 
 ## Connect with me:
