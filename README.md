@@ -47,13 +47,11 @@ Here are some ideas to get you started:
 
  <h4>Database and Backend</h4>
  <img align="left" alt="Node.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
- <img align="left" alt="Express.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
   <img align="left" alt="MongoDB" witdth="26" height="30" src="https://locusit.se/wp-content/uploads/2024/08/MongoDB.png" />
   <img align="left" alt="PostgreSQL" witdth="26" height="30" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" />
   <img align="left" alt="MySQL" witdth="26" height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
   <img align="left" alt="GraphQL" witdth="26" height="30" src="https://graphql.org/img/og-image.png" />
   <img align="left" alt="Redis" witdth="26" height="30" src="https://clarkes.team/wp-content/uploads/2023/07/Redis.png" />
-  <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
 
   <br/>
   <br/>
@@ -62,7 +60,6 @@ Here are some ideas to get you started:
  <h4>Environment and Infrastructure</h4>
  <img align="left" alt="Docker" witdth="26" height="30" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
- <img align="left" alt="GitHub" width="26" src="https://github.com/user-attachments/assets/255da179-130e-4ab7-9ac1-0e93dfa06f57" />
 
 
 
