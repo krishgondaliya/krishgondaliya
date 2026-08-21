@@ -36,14 +36,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<h4>JavaScript and Related Libraries/Frameworks</h4>
-<img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img align="left" alt="React" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji756DZmDEwPdA2pi_IXiGyIqsm99Cp7NVg&s" />
-<img align="left" alt="NEXT.js" witdth="26" height="30" src="https://cdn.rswebsols.com/wp-content/uploads/2024/02/next-js-logo-920x341.png?strip=all" />
-
-<br/>
-<br/>
-
  <h4>Database and Backend</h4>
  <img align="left" alt="Apache Kafka" witdth="26" height="30" src="https://www.ovhcloud.com/sites/default/files/styles/desktop_full_width/public/2024-01/kafka.png" />
  <img align="left" alt="Node.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
@@ -60,6 +52,14 @@ Here are some ideas to get you started:
  <h4>Environment and Infrastructure</h4>
  <img align="left" alt="Docker" witdth="26" height="30" src="https://raw.githubusercontent.com/wesbos/Font-Awesome-Docker-Icon/07fb62ca1b8dea97b351d89686bb32418735182d/docker-white.svg" />
  <img align="left" alt="Kubernetes" witdth="26" height="30" src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" />
+
+ <br/>
+<br/>
+
+<h4>JavaScript and Related Libraries/Frameworks</h4>
+<img align="left" alt="TypeScript" witdth="26" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+<img align="left" alt="React" witdth="26" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSji756DZmDEwPdA2pi_IXiGyIqsm99Cp7NVg&s" />
+<img align="left" alt="NEXT.js" witdth="26" height="30" src="https://cdn.rswebsols.com/wp-content/uploads/2024/02/next-js-logo-920x341.png?strip=all" />
 
 
 
