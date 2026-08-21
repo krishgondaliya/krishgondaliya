@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <br/>
 
  <h4>Database and Backend</h4>
+ <img align="left" alt="Apache Kafka" witdth="26" height="30" src="https://www.ovhcloud.com/sites/default/files/styles/desktop_full_width/public/2024-01/kafka.png" />
  <img align="left" alt="Node.js" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
   <img align="left" alt="MongoDB" witdth="26" height="30" src="https://locusit.se/wp-content/uploads/2024/08/MongoDB.png" />
   <img align="left" alt="PostgreSQL" witdth="26" height="30" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" />
