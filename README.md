@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I have a strong foundation in algorithms and I'm seeking opportunities to apply my skills in real world projects.
 - Active portfolio: https://www.krishgondaliya.com/
 - How to reach me: krishgondaliya23@gmail.com
 
