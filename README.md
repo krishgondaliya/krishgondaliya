@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Active portfolio: https://www.krishgondaliya.com/
-- How to reach me: krishgondaliya23@gmail.com
+- How to reach me: krishgondaliya10@gmail.com
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
