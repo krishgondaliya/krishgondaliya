@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - Active portfolio: https://www.krishgondaliya.com/
 - How to reach me: krishgondaliya10@gmail.com
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/krishgondaliya/" target="_blank" rel="noreferer" >
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/259bd0b8-114d-428e-8e9a-7ae5f0be0727" />
-</a>
 <br />
 
 <br><br>
