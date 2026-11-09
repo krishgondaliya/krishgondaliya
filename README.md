@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - Active portfolio: https://www.krishgondaliya.com/
 - How to reach me: krishgondaliya10@gmail.com
 
-<br />
-
-<br><br>
 
 
 
